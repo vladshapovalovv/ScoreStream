@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">ScoreStream</string>
+    <string name="app_sloagan">" Your Live Football Scores, Unleashed. \n Stay in the know with real-time updates on goals, cards, lineups, and match stats. Your game, your score, your way."</string>
+    <string name="start_now">Start now</string>
+</resources>

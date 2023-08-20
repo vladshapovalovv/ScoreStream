@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955377270804",
+    "project_id": "scorestream-16df2",
+    "storage_bucket": "scorestream-16df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955377270804:android:4ff960b6da6ae9530b2701",
+        "android_client_info": {
+          "package_name": "com.example.scorestream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955377270804-08vbd3l5ig3a787at4m45ae13mbbpsk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Z0BySpjcDTRg6uegUkZMT2E3HbcqsdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955377270804-08vbd3l5ig3a787at4m45ae13mbbpsk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

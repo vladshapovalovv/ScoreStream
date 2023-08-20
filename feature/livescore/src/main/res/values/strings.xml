@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_matches">No LiveScore matches at the moment</string>
+    <string name="open_webview">Open WebView</string>
+    <string name="livescore_matches">LiveScore Matches</string>
+    <string name="team_logo">Team logo</string>
+    <string name="country_flag">Country flag</string>
+</resources>
